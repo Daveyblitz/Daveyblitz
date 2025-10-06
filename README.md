@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Daveyblitz
+- 👋 Hi, I’m Dolami
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Fullstack
-- 📫 How to reach me ...IG:dola._db
+- 🌱 I’m currently learning Fullstack ( preferably Backend )
+- 📫 How to reach me ...dolami.ayinuola@gmail.com
 
-- ⚡ Fun fact: I like photography
+- ⚡ Fun fact: I like photography IG: @dolamz__
 
 <!---
 Daveyblitz/Daveyblitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
