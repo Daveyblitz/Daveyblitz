@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dolami
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Fullstack ( preferably Backend )
-- 📫 How to reach me ...dolami.ayinuola@gmail.com
+- 📫 How to reach me... dolami.ayinuola@gmail.com
 
 - ⚡ Fun fact: I like photography IG: @dolamz__
 
